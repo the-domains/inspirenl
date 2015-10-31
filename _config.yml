@@ -2,6 +2,7 @@ name: InspireNL
 favicon: null
 layout_spectrum: 0.8439560630358756
 typography_spectrum: 0.21419
+title: Inspire
 cta:
   domain: null
   bucket: null
